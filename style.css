@@ -1,0 +1,106 @@
+.orange-color {
+    color: orange;
+}
+
+body {
+    font-family: 'popins', 'sans-serif';
+
+}
+
+.name {
+    color: orange;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.flexible-container {
+    display: flex;
+    margin-top: 5%;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 60%;
+}
+
+.half {
+    width: 70%;
+    padding-left: 5%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: orangered;
+    background-image: -moz-linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+
+.top-banner {
+    background-image: url(images\ \(4\).jpg);
+}
+
+.flexible-container {
+    display: flex;
+    margin: 5%;
+
+}
+
+.big-dream {
+    background-image: url(images\ \(4\).jpg);
+}
+
+.fuck {
+    color: blue;
+}
+
+.exp {
+    text-decoration: none;
+    background-color: orangered;
+    background-image: -moz-linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-size: larger;
+
+}
+
+.experience-item {
+    box-shadow: 10px 10px 40px cornflowerblue;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 5;
+
+}
+
+h2 {
+    font-size: 40px;
+}
+
+#web-developer-experience {
+    border-left: 7px solid;
+    border-image: linear-gradient(purple, blue);
+    border-image-slice: 1;
+}
+
+#baby-devoloper-experience {
+    border-left: 7px solid;
+    border-image: linear-gradient(red, blue);
+    border-image-slice: 1;
+}
+
+footer p {
+    text-align: center;
+}
